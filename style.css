@@ -1,0 +1,21 @@
+body{
+   
+     width: 67%;
+    height: 90%; 
+
+}
+#image{
+    z-index: -1;
+    opacity: 0.5; 
+}
+ #container{
+  left: 500px;
+  top: 100px;
+  position: absolute;
+  justify-content: center;
+} 
+#cont{
+    left: 500px;
+    top: 165px;
+    position: absolute;
+} 
